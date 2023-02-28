@@ -6,7 +6,7 @@
       "type": "shell",
       "command": "patches/code_dark_mode_in_branch.sh",
       "args": [
-        "${input:BRANCH_NAME}",
+        "${input:BRANCH_NAME}"
       ],
       "group": "none",
       "isBackground": true,
@@ -20,7 +20,7 @@
         "showReuseMessage": false,
         "clear": false
       }
-    },
+    }
   ],
 
   "inputs": [
