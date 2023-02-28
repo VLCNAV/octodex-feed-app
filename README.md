@@ -10,3 +10,6 @@ items into a web page so the Octocats can be viewed in all their glory :tada:.
 This is a standard Next.js application that uses the `next` framework to develop and build the application.
 
 To run the application locally, use `npm run dev` from the checked out source code (after installing the dependencies of course using `npm install`). The application will start up and bind to port `3000` making the server available from http://localhost:3000
+
+
+New change
